@@ -1,0 +1,16 @@
+-- vim-options.lua
+vim.cmd("set encoding=utf-8")
+vim.cmd("syntax enable")
+vim.cmd("set number")
+vim.cmd("set relativenumber")
+vim.cmd("set mouse=a")
+vim.cmd("set showcmd")
+vim.cmd("set showmatch")
+vim.cmd("set expandtab")
+vim.cmd("set tabstop=4")
+vim.cmd("set smarttab")
+vim.cmd("set softtabstop=0")
+vim.cmd("set shiftwidth=0")
+vim.cmd("set autoindent")
+vim.cmd("set shm+=I")
+
